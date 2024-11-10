@@ -1,10 +1,7 @@
 ## 👋 Hi, I'm Sourav
 
-I'm a MERN stack developer passionate about creating responsive, user-friendly web applications and contributing to open-source projects. I enjoy working with technologies like React, Node.js, MongoDB, and JavaScript. My goal is to make technology more accessible and to help others in the developer community grow and succeed.
+I'm a MERN stack developer passionate about creating responsive, user-friendly web applications and contributing to open-source projects. I enjoy working with technologies like React, Node.js, MongoDB, and JavaScript. My goal is to make technology more accessible and to help others in the developer community grow and succeed. Through my projects and contributions, I strive to build tools and applications that make a difference and elevate user experiences. Some recent projects I've hosted include responsive card designs, SEO-friendly templates, and engaging mini-projects like a QR code generator and an image search engine. I'm always excited to connect with like-minded developers and collaborate on projects that bring value to the community.
 
-Through my projects and contributions, I strive to build tools and applications that make a difference and elevate user experiences. Some recent projects I've hosted include responsive card designs, SEO-friendly templates, and engaging mini-projects like a QR code generator and an image search engine.
-
-I'm always excited to connect with like-minded developers and collaborate on projects that bring value to the community.
 ![](https://github-readme-stats.vercel.app/api?username=smcoderr&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 
