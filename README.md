@@ -1,10 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Sourav
+
+I'm a MERN stack developer passionate about creating responsive, user-friendly web applications and contributing to open-source projects. I enjoy working with technologies like React, Node.js, MongoDB, and JavaScript. My goal is to make technology more accessible and to help others in the developer community grow and succeed.
+
+Through my projects and contributions, I strive to build tools and applications that make a difference and elevate user experiences. Some recent projects I've hosted include responsive card designs, SEO-friendly templates, and engaging mini-projects like a QR code generator and an image search engine.
+
+I'm always excited to connect with like-minded developers and collaborate on projects that bring value to the community.
 
 
-**smcoderr/smcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  -->
 
 
 ## 🌐 Socials:
