@@ -26,7 +26,4 @@ I'm always excited to connect with like-minded developers and collaborate on pro
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=smcoderr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
